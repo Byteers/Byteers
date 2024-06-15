@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Travel App**
 
-- 🌱 I’m currently learning **React,Next.js,React Native**
+- 🌱 I’m currently learning **React,Next.js,React Native,ML,AI**
 
 - 💬 Ask me about **Android , MERN**
 
