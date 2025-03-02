@@ -3,16 +3,58 @@
 <h1 align="center">Hi 👋, I'm Husain Mahudawala</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<p align="left">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=byteers&label=Profile%20views&color=0e75b6&style=flat" alt="byteers" /> </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=byteers&label=Profile%20views&color=0e75b6&style=flat" alt="byteers" /> 
+</p>
 
-- 🔭 I’m currently working on **SAR Image Colorization Deep Learning Model**
+## 🚀 About Me  
 
-- 🌱 I’m currently learning **React,Next.js,React Native,ML,AI**
+Hi there! 👋 I'm **Husain Mahudawala**, an AI enthusiast passionate about **Deep Learning, Reinforcement Learning, and Robotics**.  
+I love exploring the intersection of AI and real-world applications, continuously pushing boundaries with innovative projects.  
 
-- 💬 Ask me about **Android , MERN**
+---
 
-- 📫 How to reach me **husain.m.offc@gmail.com**
+## 🛠️ Current Projects  
+
+- 🤖 **Robotic Arm Control using Reinforcement Learning**  
+  - Developing an intelligent robotic arm with **Deep RL algorithms** to enhance automation and precision.  
+  - Exploring **Proximal Policy Optimization (PPO)** and **Soft Actor-Critic (SAC)** for optimal control.  
+
+- 🛰️ **SAR Image Colorization using Deep Learning**  
+  - Applying **CNNs and GANs** to translate grayscale SAR images into realistic color representations.  
+  - Leveraging **PyTorch** and **TensorFlow** for model training and performance optimization.  
+
+---
+
+## 📚 What I'm Learning  
+
+- 🧠 **Reinforcement Learning (RL)** - Multi-agent systems, PPO, SAC, DDPG  
+- 🤖 **Computer Vision** - Object detection, Image segmentation, GANs  
+- ⚡ **AI for Robotics** - Kinematics, control algorithms, and real-world applications  
+- 🌐 **Advanced Web Technologies** - React, Next.js, and full-stack AI-powered applications  
+
+---
+
+## 💡 Ask Me About  
+
+- 🔹 **Deep Learning & Reinforcement Learning**  
+- 🔹 **AI for Robotics & Automation**  
+- 🔹 **MERN Stack Development**  
+
+---
+
+## 📫 Connect with Me  
+
+- 📧 **Email**: husain.m.offc@gmail.com  
+- 🏗️ **GitHub**: [byteers](https://github.com/byteers)  
+- 💼 **LinkedIn**: [Husain Mahudawala](#) *(Add your LinkedIn profile link here)*  
+
+---
+
+⭐ **"AI is not just about models, it's about solving real-world problems."** 🚀  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
