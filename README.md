@@ -6,9 +6,9 @@
 <p align="left">
 
   
-  <img src="https://komarev.com/ghpvc/?username=byteers&label=Profile%20views&color=0e75b6&style=flat" alt="byteers" /> 
 </p>
 
+  <img src="https://komarev.com/ghpvc/?username=byteers&label=Profile%20views&color=0e75b6&style=flat" alt="byteers" /> 
 ## 🚀 About Me  
 
 Hi there! 👋 I'm **Husain Mahudawala**, an AI enthusiast passionate about **Deep Learning, Reinforcement Learning, and Robotics**.  
