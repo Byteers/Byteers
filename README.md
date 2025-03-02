@@ -8,11 +8,11 @@
   
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=byteers&label=Profile%20views&color=0e75b6&style=flat" alt="byteers" /> 
+
 ## 🚀 About Me  
 
-Hi there! 👋 I'm **Husain Mahudawala**, an AI enthusiast passionate about **Deep Learning, Reinforcement Learning, and Robotics**.  
-I love exploring the intersection of AI and real-world applications, continuously pushing boundaries with innovative projects.  
+Hi there! 👋 I'm **Husain Mahudawala**, a **CSE-MBA student at Nirma University**, passionate about **AI, Deep Learning, and Reinforcement Learning**.  
+I am currently exploring the intersection of **AI, Robotics, and Cybersecurity**, constantly working on innovative projects to push the boundaries of technology.  
 
 ---
 
@@ -20,11 +20,11 @@ I love exploring the intersection of AI and real-world applications, continuousl
 
 - 🤖 **Robotic Arm Control using Reinforcement Learning**  
   - Developing an intelligent robotic arm with **Deep RL algorithms** to enhance automation and precision.  
-  - Exploring **Proximal Policy Optimization (PPO)** and **Soft Actor-Critic (SAC)** for optimal control.  
+  - I plan to use **Deep Deterministic Policy Gradient (DDPG)** to train the robotic arm to reach random targets in its workspace 
 
-- 🛰️ **SAR Image Colorization using Deep Learning**  
-  - Applying **CNNs and GANs** to translate grayscale SAR images into realistic color representations.  
-  - Leveraging **PyTorch** and **TensorFlow** for model training and performance optimization.  
+- 🔐 **AI-Driven Anomaly Detection for Securing IoT-Based Healthcare Systems** *(Minor Project)*  
+  - Developing an **AI-powered Intrusion Detection System (IDS)** for IoMT cybersecurity.  
+  - Implementing **Different AI models and Anomaly Detection models** to enhance security.  
 
 ---
 
@@ -32,7 +32,7 @@ I love exploring the intersection of AI and real-world applications, continuousl
 
 - 🧠 **Reinforcement Learning (RL)** - Multi-agent systems, PPO, SAC, DDPG  
 - 🤖 **Computer Vision** - Object detection, Image segmentation, GANs  
-- ⚡ **AI for Robotics** - Kinematics, control algorithms, and real-world applications  
+- 🔐 **AI for Cybersecurity** - Anomaly detection, Intrusion detection, Federated Learning  
 - 🌐 **Advanced Web Technologies** - React, Next.js, and full-stack AI-powered applications  
 
 ---
@@ -41,6 +41,7 @@ I love exploring the intersection of AI and real-world applications, continuousl
 
 - 🔹 **Deep Learning & Reinforcement Learning**  
 - 🔹 **AI for Robotics & Automation**  
+- 🔹 **AI Security in IoT & Healthcare**  
 - 🔹 **MERN Stack Development**  
 
 ---
@@ -53,8 +54,7 @@ I love exploring the intersection of AI and real-world applications, continuousl
 
 ---
 
-⭐ **"AI is not just about models, it's about solving real-world problems."** 🚀  
-
+⭐ **"AI is not just about models, it's about solving real-world problems."** 🚀 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
