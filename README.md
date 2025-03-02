@@ -46,7 +46,7 @@ I am currently exploring the intersection of **AI, Robotics, and Cybersecurity**
 
 - 📧 **Email**: husain.m.offc@gmail.com  
 - 🏗️ **GitHub**: [byteers](https://github.com/byteers)  
-- 💼 **LinkedIn**: [Husain Mahudawala](#) *(Add your LinkedIn profile link here)*  
+- 💼 **LinkedIn**: [Husain Mahudawala]([#](https://www.linkedin.com/in/husainkmahuda/))  
 
 ---
 
